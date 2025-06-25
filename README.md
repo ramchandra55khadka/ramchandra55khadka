@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Ramchandra Khadka
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ramchandra+Khadka;Full-stack+developer+from+Nepal;I+love+AI%2C+automation+%26+web+dev)](https://github.com/ramchandra55khadka)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ramchandra+Khadka;Python+developer+from+Nepal;I+love+AI%2C+automation+%26+AI)](https://github.com/ramchandra55khadka)
 
 💻 A passionate developer from Nepal  
 🌱 Currently working on: CRM system  
