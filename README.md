@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ramchandra+Khadka;Python+developer+from+Nepal;I+love+AI%2C+automation+%26)](https://github.com/ramchandra55khadka)
 
 💻 A passionate developer from Nepal  
-🌱 Currently working on: CRM system  
-🔍 Exploring: AI-powered recommendation systems & predictive analytics  
+🌱 Currently working on: AI Powerd CRM system,Building AI Agent 
+🔍 Exploring: AI-powered Agentic systems & Neural Network  
 
 ---
 
@@ -13,6 +13,13 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain)
+![GraphChain](https://img.shields.io/badge/-GraphChain-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjZmZmIi8+PC9zdmc+) 
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikitlearn)
+
 
 ---
 
@@ -35,8 +42,8 @@ A smart event management system with recommendation algorithms and seamless user
 ---
 
 ## 🧠 Currently Learning
-- 📊 Machine Learning & AI for smart CRM features  
-- 🌐 Nest.js & PostgreSQL integration  
+- 📊 LLM, Neural Network & Exploring AI Agent in Modern CRM System
+- 🌐 Django REST API  & PostgreSQL integration  
 - 🔐 Secure authentication & role-based access control
 
 ---
